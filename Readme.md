@@ -7,7 +7,7 @@
 **\-Template**  
 **\-Torn**
 
-[I'm on canvas i swear.](https://smsd.instructure.com/)
+[I'm on canvas i swear.](instructure.com/)
 
 Some of these links won’t work if you update your computer.  
 These should all be functional on devices using Lightspeed systems. 
